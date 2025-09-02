@@ -5,7 +5,7 @@
 
 
 ## About Me
-<span style="font-size: 20px;">I'm Sayanel or Aymeric for those who want to use my name. I'm currently a student in video game developement, more precisely i really like creating and developing engine like game engine not the real thing that cars use to move.
+<span style="font-size: 40px;">I'm Sayanel or Aymeric for those who want to use my name. I'm currently a student in video game developement, more precisely i really like creating and developing engine like game engine not the real thing that cars use to move.
 
 I really love doing game engine, I've done with friends, during our first year at school, a game engine with an GameObject and Component system, an editor and more. And for my internship at the end of my first year, I have passed 2 months doing a game engine for my school for 40 peoples.
 
