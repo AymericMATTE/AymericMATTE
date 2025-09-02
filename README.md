@@ -35,7 +35,7 @@ Thanks for reading my profil, I hope it makes you know more about me !!
 ## 🔗 Links
 [![Static Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&color=black)](https://portfolio-aymeric-matte.my.canva.site/)
 
-<img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&color=black)](https://portfolio-aymeric-matte.my.canva.site/" alt="Portfolio" width="150" height="42">
+<a href="https://portfolio-aymeric-matte.my.canva.site/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&color=black" alt="Portfolio" width="150" height="42"></a>
 
 [![Static Badge](/resources/LinkedIn_logo_initials.jpg)](https://www.linkedin.com/in/aymeric-matte/)
 
