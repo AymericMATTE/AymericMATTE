@@ -16,11 +16,17 @@ I'm currently looking for a computer science stage of 2 months around Lyon or Na
 Thanks for reading my profil, I hope it makes you know more about me !!
 
 ## 🛠 Skills
-![image](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&labelColor=8102AD&color=black)
+	![image](https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&labelColor=8102AD&color=black)
 
-![image](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoSize=auto&labelColor=blue&color=black)
+	![image](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%	2B&logoColor=white&logoSize=auto&labelColor=blue&color=black)
 
-![image](https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=blue&color=black)
+<img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C&labelColor=8102AD&color=black" alt="Img1" width="128" height="56">
+
+<img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoSize=auto&labelColor=blue&color=black" alt="Img2" width="128" height="56">
+
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto&labelColor=blue&color=black" alt="Img3" width="220" height="56">
+
+	![image](https://img.shields.io/badge/python-white?style=for-the-	badge&logo=Python&logoColor=white&logoSize=auto&labelColor=blue&color=black)
 
 
 ## 💾 Software
