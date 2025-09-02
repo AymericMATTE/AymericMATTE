@@ -25,11 +25,11 @@ Thanks for reading my profile, I hope it helps you get to know me better!!
 
 ## 💾 Software
 
-![image](/resources/Visual_Studio_Code_1.35_icon.png)
-
 ![image](/resources/Visual_Studio_Icon_2022.png)
 
 ![image](/resources/JetBrains_Rider_Icon.png)
+
+![image](/resources/Visual_Studio_Code_1.35_icon.png)
 
 
 ## 🔗 Links
