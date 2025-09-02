@@ -25,15 +25,15 @@ Thanks for reading my profil, I hope it makes you know more about me !!
 
 ## 💾 Software
 
-![image](/resources/Visual_Studio_Code_1.35_icon.svg.png)
+![image](/resources/Visual_Studio_Code_1.35_icon.png)
 
-![image](/resources/Visual_Studio_Icon_2022.svg.png)
+![image](/resources/Visual_Studio_Icon_2022.png)
 
-![image](/resources/JetBrains_Rider_Icon.svg.png)
+![image](/resources/JetBrains_Rider_Icon.png)
 
 
 ## 🔗 Links
 [![Static Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&color=black)](https://portfolio-aymeric-matte.my.canva.site/)
 
-[![Static Badge](/resources/LinkedIn_logo_initials.png.webp)](https://www.linkedin.com/in/aymeric-matte/)
+[![Static Badge](/resources/LinkedIn_logo_initials.jpg)](https://www.linkedin.com/in/aymeric-matte/)
 
