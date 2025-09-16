@@ -7,11 +7,11 @@
 ## About Me
 I'm Sayanel or Aymeric for those who want to use my name. I'm currently a student in video game development, more precisely i really like creating and developing engines like game engine not the ones used in cars.
 
-I really love making game engines. I've worked on one with friends during our first year at school; it included a GameObject and Component system, an editor, and more.. And for my internship at the end of my first year, I spent 2 months developing a game engine for my school with 40 people.
+I really love making game engines. I've worked on one with friends during our first year at school; it included a GameObject and Component system, an editor, and more... And for my internship at the end of my first year, I spent 2 months developing a game engine for my school with 40 people.
 
 That said, I'm very open when it comes to humor and I also love learning new things from my colleagues.
 
-I'm currently looking for a computer science internship of 2 months around Lyon or Nancy in France for my second year internship. So if you know someone who might be interested in my profile....
+I'm currently looking for a computer science internship of 2 months around Lyon or Nancy in France for my second year internship. So if you know someone who might be interested in my profile...
 
 Thanks for reading my profile, I hope it helps you get to know me better!!
 
