@@ -11,8 +11,6 @@ I really love making game engines. I've worked on one with friends during our fi
 
 That said, I'm very open when it comes to humor and I also love learning new things from people.
 
-I'm currently looking for a computer science internship between 2 and 4 months around Lyon or Nancy in France for my second year internship. So if you know someone who might be interested in my profile...
-
 Thanks for reading my profile, I hope it helps you get to know me better!!
 
 ## 🛠 Skills
